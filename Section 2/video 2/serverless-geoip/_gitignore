@@ -1,0 +1,5 @@
+.DS_Store
+.serverless
+data/*.mmdb
+node_modules
+package-lock.json

@@ -1,0 +1,15 @@
+{
+  "name": "weatherlambda",
+  "version": "1.0.0",
+  "description": "Weather Lambda",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Forrider",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "request-promise": "^4.2.2"
+  }
+}
